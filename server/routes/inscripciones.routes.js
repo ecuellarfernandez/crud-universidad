@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import InscripcionesController from '../controllers/InscripcionesController.js';
+import {InscripcionesController} from '../controllers/inscripciones.controller.js';
 
 const router = Router();
 
